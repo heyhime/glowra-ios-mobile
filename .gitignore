@@ -1,0 +1,19 @@
+# Xcode user settings and build output
+DerivedData/
+build/
+*.xcuserstate
+xcuserdata/
+
+# Swift Package Manager
+.build/
+.swiftpm/
+Package.resolved
+
+# macOS
+.DS_Store
+
+# Signing and provisioning files
+*.mobileprovision
+*.p12
+*.cer
+
