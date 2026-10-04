@@ -25,4 +25,3 @@ Glowra Mobile is the native iOS companion app for the [Glowra Shop website](http
 5. Press **Run**.
 
 The application is written in Swift and SwiftUI. This repository contains the iOS source code; Android APK files cannot be produced from an Xcode project.
-
